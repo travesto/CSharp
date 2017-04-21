@@ -1,0 +1,8 @@
+C:\Users\Travis\CSprojects\CSharp\Shapes\bin\Debug\netcoreapp1.1\Shapes.deps.json
+C:\Users\Travis\CSprojects\CSharp\Shapes\bin\Debug\netcoreapp1.1\Shapes.runtimeconfig.json
+C:\Users\Travis\CSprojects\CSharp\Shapes\bin\Debug\netcoreapp1.1\Shapes.runtimeconfig.dev.json
+C:\Users\Travis\CSprojects\CSharp\Shapes\obj\Debug\netcoreapp1.1\Shapes.AssemblyInfo.cs
+C:\Users\Travis\CSprojects\CSharp\Shapes\bin\Debug\netcoreapp1.1\Shapes.dll
+C:\Users\Travis\CSprojects\CSharp\Shapes\bin\Debug\netcoreapp1.1\Shapes.pdb
+C:\Users\Travis\CSprojects\CSharp\Shapes\obj\Debug\netcoreapp1.1\Shapes.dll
+C:\Users\Travis\CSprojects\CSharp\Shapes\obj\Debug\netcoreapp1.1\Shapes.pdb

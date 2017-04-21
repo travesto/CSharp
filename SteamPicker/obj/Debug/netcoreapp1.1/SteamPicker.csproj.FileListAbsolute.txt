@@ -1,0 +1,8 @@
+C:\Users\Travis\CSprojects\CSharp\SteamPicker\bin\Debug\netcoreapp1.1\SteamPicker.deps.json
+C:\Users\Travis\CSprojects\CSharp\SteamPicker\bin\Debug\netcoreapp1.1\SteamPicker.runtimeconfig.json
+C:\Users\Travis\CSprojects\CSharp\SteamPicker\bin\Debug\netcoreapp1.1\SteamPicker.runtimeconfig.dev.json
+C:\Users\Travis\CSprojects\CSharp\SteamPicker\obj\Debug\netcoreapp1.1\SteamPicker.AssemblyInfo.cs
+C:\Users\Travis\CSprojects\CSharp\SteamPicker\bin\Debug\netcoreapp1.1\SteamPicker.dll
+C:\Users\Travis\CSprojects\CSharp\SteamPicker\bin\Debug\netcoreapp1.1\SteamPicker.pdb
+C:\Users\Travis\CSprojects\CSharp\SteamPicker\obj\Debug\netcoreapp1.1\SteamPicker.dll
+C:\Users\Travis\CSprojects\CSharp\SteamPicker\obj\Debug\netcoreapp1.1\SteamPicker.pdb
