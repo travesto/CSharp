@@ -51,8 +51,8 @@ namespace Battleship
         }
         
         //place ships
-        <param name="sender"></param>
-        <param name="w"></param>
+        //<param name="sender"></param>
+        //<param name="w"></param>
         private void shipSetup(object sender, EventArgs e)
         {
             //finish setup
