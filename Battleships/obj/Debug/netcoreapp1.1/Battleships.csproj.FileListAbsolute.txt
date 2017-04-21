@@ -1,0 +1,4 @@
+C:\Users\Travis\CSprojects\CSharp\Battleships\bin\Debug\netcoreapp1.1\Battleships.deps.json
+C:\Users\Travis\CSprojects\CSharp\Battleships\bin\Debug\netcoreapp1.1\Battleships.runtimeconfig.json
+C:\Users\Travis\CSprojects\CSharp\Battleships\bin\Debug\netcoreapp1.1\Battleships.runtimeconfig.dev.json
+C:\Users\Travis\CSprojects\CSharp\Battleships\obj\Debug\netcoreapp1.1\Battleships.AssemblyInfo.cs
