@@ -22,7 +22,8 @@ namespace Battleship
         Grid grid = new Grid();
         private Create create;
         private PlaceShip placeShip;
-        private Multiplayer multiplayer;
+        private PlayVSComp playVSComp;
+        // private Multiplayer multiplayer;
         private MediaPlayer mediaPlayer = new MediaPlayer();
 
         public MainWindow()
@@ -71,7 +72,47 @@ namespace Battleship
         }
 
         //multiplayer sockets go here
+        
+        /// <summary>
+        /// Phase 3: PlayVSComp 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void playGame(object sender, EventArgs e)
+        {
+            //Close shipPlacement
+            grid.Children.Clear();
 
+            //Resize window
+            this.MinWidth = 953.286;
+            this.MinHeight = 480;
+            this.Width = 953.286;
+            this.Height = 480;
 
+            //Initialize game
+            playVSComp = new PlayVSComp(setup.difficulty, shipPlacement.playerGrid, setup.name);
+
+            //Add grid
+            grid.Children.Add(playVSComp);
+            playVSComp.replay += new EventHandler(replayGame);
+
+        }
+       // music player
+        private void playMusic()
+        {
+            mediaPlayer.Open(new Uri(Directory.GetCurrentDirectory() + "\\music.mp3"));
+            mediaPlayer.Volume = 0.20;
+            mediaPlayer.Play();
+            mediaPlayer.MediaEnded += new EventHandler(Media_Ended);
+        }
+
+        //loop music
+        // <param name="sender"></param>
+        // <param name="e"></param>
+        private void Media_Ended(object sender, EventArgs e)
+        {
+            mediaPlayer.Position = TimeSpan.Zero;
+            mediaPlayer.Play();
+        }
     }
 }
