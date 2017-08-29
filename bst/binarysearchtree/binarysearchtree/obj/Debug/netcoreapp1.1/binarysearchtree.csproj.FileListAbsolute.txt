@@ -1,0 +1,9 @@
+c:\users\travis\csprojects\csharp\bst\binarysearchtree\binarysearchtree\bin\Debug\netcoreapp1.1\binarysearchtree.deps.json
+c:\users\travis\csprojects\csharp\bst\binarysearchtree\binarysearchtree\bin\Debug\netcoreapp1.1\binarysearchtree.runtimeconfig.json
+c:\users\travis\csprojects\csharp\bst\binarysearchtree\binarysearchtree\bin\Debug\netcoreapp1.1\binarysearchtree.runtimeconfig.dev.json
+c:\users\travis\csprojects\csharp\bst\binarysearchtree\binarysearchtree\obj\Debug\netcoreapp1.1\binarysearchtree.csprojResolveAssemblyReference.cache
+c:\users\travis\csprojects\csharp\bst\binarysearchtree\binarysearchtree\obj\Debug\netcoreapp1.1\binarysearchtree.AssemblyInfo.cs
+c:\users\travis\csprojects\csharp\bst\binarysearchtree\binarysearchtree\bin\Debug\netcoreapp1.1\binarysearchtree.dll
+c:\users\travis\csprojects\csharp\bst\binarysearchtree\binarysearchtree\bin\Debug\netcoreapp1.1\binarysearchtree.pdb
+c:\users\travis\csprojects\csharp\bst\binarysearchtree\binarysearchtree\obj\Debug\netcoreapp1.1\binarysearchtree.dll
+c:\users\travis\csprojects\csharp\bst\binarysearchtree\binarysearchtree\obj\Debug\netcoreapp1.1\binarysearchtree.pdb

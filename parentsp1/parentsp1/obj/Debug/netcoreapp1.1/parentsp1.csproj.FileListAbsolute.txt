@@ -1,0 +1,9 @@
+C:\Users\Travis\csprojects\csharp\parentsp1\parentsp1\bin\Debug\netcoreapp1.1\parentsp1.deps.json
+C:\Users\Travis\csprojects\csharp\parentsp1\parentsp1\bin\Debug\netcoreapp1.1\parentsp1.runtimeconfig.json
+C:\Users\Travis\csprojects\csharp\parentsp1\parentsp1\bin\Debug\netcoreapp1.1\parentsp1.runtimeconfig.dev.json
+C:\Users\Travis\csprojects\csharp\parentsp1\parentsp1\obj\Debug\netcoreapp1.1\parentsp1.csprojResolveAssemblyReference.cache
+C:\Users\Travis\csprojects\csharp\parentsp1\parentsp1\obj\Debug\netcoreapp1.1\parentsp1.AssemblyInfo.cs
+C:\Users\Travis\csprojects\csharp\parentsp1\parentsp1\bin\Debug\netcoreapp1.1\parentsp1.dll
+C:\Users\Travis\csprojects\csharp\parentsp1\parentsp1\bin\Debug\netcoreapp1.1\parentsp1.pdb
+C:\Users\Travis\csprojects\csharp\parentsp1\parentsp1\obj\Debug\netcoreapp1.1\parentsp1.dll
+C:\Users\Travis\csprojects\csharp\parentsp1\parentsp1\obj\Debug\netcoreapp1.1\parentsp1.pdb

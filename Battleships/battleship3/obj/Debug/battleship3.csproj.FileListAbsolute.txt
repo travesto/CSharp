@@ -53,3 +53,14 @@ C:\Users\Travis\Downloads\battleship3\battleship3\battleship3\battleship3\obj\De
 C:\Users\Travis\Downloads\battleship3\battleship3\battleship3\battleship3\obj\Debug\battleship3.csproj.GenerateResource.Cache
 C:\Users\Travis\Downloads\battleship3\battleship3\battleship3\battleship3\obj\Debug\battleship3.exe
 C:\Users\Travis\Downloads\battleship3\battleship3\battleship3\battleship3\obj\Debug\battleship3.pdb
+C:\Users\Travis\CSprojects\CSharp\Battleships\battleship3\bin\Debug\battleship3.exe.config
+C:\Users\Travis\CSprojects\CSharp\Battleships\battleship3\bin\Debug\battleship3.exe
+C:\Users\Travis\CSprojects\CSharp\Battleships\battleship3\bin\Debug\battleship3.pdb
+C:\Users\Travis\CSprojects\CSharp\Battleships\battleship3\obj\Debug\battleship3.csprojResolveAssemblyReference.cache
+C:\Users\Travis\CSprojects\CSharp\Battleships\battleship3\obj\Debug\battleship3.FormPlaceShips.resources
+C:\Users\Travis\CSprojects\CSharp\Battleships\battleship3\obj\Debug\battleship3.FormPlayOnline.resources
+C:\Users\Travis\CSprojects\CSharp\Battleships\battleship3\obj\Debug\battleship3.FormSplash.resources
+C:\Users\Travis\CSprojects\CSharp\Battleships\battleship3\obj\Debug\battleship3.Properties.Resources.resources
+C:\Users\Travis\CSprojects\CSharp\Battleships\battleship3\obj\Debug\battleship3.csproj.GenerateResource.Cache
+C:\Users\Travis\CSprojects\CSharp\Battleships\battleship3\obj\Debug\battleship3.exe
+C:\Users\Travis\CSprojects\CSharp\Battleships\battleship3\obj\Debug\battleship3.pdb

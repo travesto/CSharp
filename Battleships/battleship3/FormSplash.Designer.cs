@@ -1,7 +1,9 @@
-﻿namespace battleship3
+﻿using System.Media;
+namespace battleship3
 {
     partial class FormSplash
     {
+        private MediaPlayer mediaPlayer = new MediaPlayer();
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -118,6 +120,33 @@
         private System.Windows.Forms.TextBox text_nickname;
         private System.Windows.Forms.Button button_play_online;
         private System.Windows.Forms.Button button1;
+    }
+
+    internal class MediaPlayer
+    {
+        private object mediaPlayer;
+
+        /// <summary>
+        /// Music is played
+        /// </summary>
+        private void playMusic()
+        {
+            mediaPlayer.Open(new Uri(Directory.GetCurrentDirectory() + "\\Sounds\\music.mp3"));
+            mediaPlayer.Volume = 0.2;
+            mediaPlayer.Play();
+            mediaPlayer.MediaEnded += new EventHandler(Media_Ended);
+        }
+
+        /// <summary>
+        /// Make the music loop
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void Media_Ended(object sender, EventArgs e)
+        {
+            mediaPlayer.Position = TimeSpan.Zero;
+            mediaPlayer.Play();
+        }
     }
 }
 
